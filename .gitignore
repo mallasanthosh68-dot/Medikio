@@ -1,5 +1,6 @@
 node_modules/
 dist/
 .codeatlas/
+.vite/
 *.log
 .DS_Store
